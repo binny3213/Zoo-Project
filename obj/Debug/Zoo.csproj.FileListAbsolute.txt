@@ -1,0 +1,101 @@
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Pics\Elephant.jpg
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Pics\Turtle.jpg
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Pics\Snake.jpg
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Pics\Lion.jpg
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Resources\Zoo.jpg
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Zoo.exe.config
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Zoo.exe
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Zoo.pdb
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\NAudio.Asio.dll
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\NAudio.Core.dll
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\NAudio.dll
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\NAudio.Midi.dll
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\NAudio.WinForms.dll
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\NAudio.WinMM.dll
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\NAudio.xml
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\obj\Debug\Zoo.csproj.AssemblyReference.cache
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\obj\Debug\Csharp.project.Frontend.Forms.ZooManager.resources
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\obj\Debug\Zoo.Properties.Resources.resources
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\obj\Debug\Zoo.csproj.GenerateResource.cache
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\obj\Debug\Zoo.csproj.CopyComplete
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\obj\Debug\Zoo.exe
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\obj\Debug\Zoo.pdb
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Sounds\Snake.mp3
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Sounds\Elephant.mp3
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Sounds\Lion.mp3
+C:\Users\Precision 5560\Desktop\csharp project done\Zoo done\Zoo\bin\Debug\Sounds\Turtle.mp3
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Sounds\Elephant.mp3
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Sounds\Lion.mp3
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Sounds\Snake.mp3
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Sounds\Turtle.mp3
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Pics\Elephant.jpg
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Pics\Turtle.jpg
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Pics\Snake.jpg
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Pics\Lion.jpg
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Resources\Zoo.jpg
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Zoo.exe.config
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Zoo.exe
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Zoo.pdb
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\NAudio.Asio.dll
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\NAudio.Core.dll
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\NAudio.dll
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\NAudio.Midi.dll
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\NAudio.WinForms.dll
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\NAudio.WinMM.dll
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\NAudio.xml
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\obj\Debug\Zoo.csproj.AssemblyReference.cache
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\obj\Debug\Csharp.project.Frontend.Forms.ZooManager.resources
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\obj\Debug\Zoo.Properties.Resources.resources
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\obj\Debug\Zoo.csproj.GenerateResource.cache
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\obj\Debug\Zoo.csproj.CopyComplete
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\obj\Debug\Zoo.exe
+C:\Users\Precision 5560\Desktop\123\Zoo done\Zoo\obj\Debug\Zoo.pdb
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Sounds\Elephant.mp3
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Sounds\Lion.mp3
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Sounds\Snake.mp3
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Sounds\Turtle.mp3
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Pics\Elephant.jpg
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Pics\Turtle.jpg
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Pics\Snake.jpg
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Pics\Lion.jpg
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Resources\Zoo.jpg
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Zoo.exe.config
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Zoo.exe
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Zoo.pdb
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\NAudio.Asio.dll
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\NAudio.Core.dll
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\NAudio.dll
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\NAudio.Midi.dll
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\NAudio.Wasapi.dll
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\NAudio.WinForms.dll
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\NAudio.WinMM.dll
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\NAudio.xml
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\obj\Debug\Zoo.csproj.AssemblyReference.cache
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\obj\Debug\Csharp.project.Frontend.Forms.ZooManager.resources
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\obj\Debug\Zoo.Properties.Resources.resources
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\obj\Debug\Zoo.csproj.GenerateResource.cache
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\obj\Debug\Zoo.exe
+C:\Users\binny\OneDrive\Desktop\Studies\HIT\SHANA A\SemB\c מונחה עצמים\207905696_208407189_ZooProject-new\207905696_208407189_ZooProject\Zoo\obj\Debug\Zoo.pdb
